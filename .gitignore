@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+.env
+.vscode/
+
+# Generated model checkpoints can be large; keep them local unless intentionally shared.
+model/
+
+# Keep the large image collection out of Git. The index file remains tracked.
+Fish_Data/images/
